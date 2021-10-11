@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sergio Vega
 - 👀 I’m interested in computer science, web development, and robotics. 
-- 🌱 I’m currently learning web development at DigitalCrafts, at the Houston, Tx location. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development at DigitalCrafts, at the Houston, Tx location.
 - 📫 How to reach me vegasergiojr@gmail.com, www.linkedin.com/in/vegasergiojr1993
 
 <!---
